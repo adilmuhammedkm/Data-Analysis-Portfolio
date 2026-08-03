@@ -101,7 +101,6 @@ The following transformations were performed using Power Query:
 Power BI Fundamentals - Music Dataset
 │
 ├── Internshala Power BI.pbix
-├── PowerBI Project Case Study.pdf
 ├── album.csv
 ├── track.csv
 ├── README.md
