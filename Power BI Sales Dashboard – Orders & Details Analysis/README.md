@@ -12,37 +12,37 @@ This project transforms transactional sales data into an interactive Power BI da
 
 ## Executive Dashboard
 
-![Dashboard](Screenshots/executive-dashboard.png)
+![Dashboard](screenshots/executive-dashboard.png)
 
 ---
 
 ## Profit by Product Sub-Category
 
-![Profit Analysis](Screenshots/profit-analysis.png)
+![Profit Analysis](screenshots/profit-analysis.png)
 
 ---
 
 ## Profit Trend by Month
 
-![Monthly Profit](Screenshots/monthly-profit-trend.png)
+![Monthly Profit](screenshots/monthly-profit-trend.png)
 
 ---
 
 ## Key Influencers Analysis
 
-![Key Influencers](Screenshots/key-influencers.png)
+![Key Influencers](screenshots/key-influencers.png)
 
 ---
 
 ## Decomposition Tree Analysis
 
-![Decomposition Tree](Screenshots/decomposition-tree.png)
+![Decomposition Tree](screenshots/decomposition-tree.png)
 
 ---
 
 ## Data Model
 
-![Model](Screenshots/data-model.png)
+![Model](screenshots/data-model.png)
 
 ---
 
@@ -172,7 +172,7 @@ Power BI Sales Dashboard – Orders & Details Analysis
 ├── Details.xlsx
 ├── Orders and Details.pbix
 ├── README.md
-└── Screenshots
+└── screenshots
     ├── data-model.png
     ├── decomposition-tree.png
     ├── executive-dashboard.png
