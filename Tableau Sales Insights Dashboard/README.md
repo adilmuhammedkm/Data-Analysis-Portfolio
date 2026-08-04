@@ -60,7 +60,7 @@ The final dashboard enables users to explore sales performance from different bu
 
 ## Sales Insights Dashboard
 
-![Dashboard](Screenshots/dashboard-overview.png)
+![Dashboard](screenshots/dashboard-overview.png)
 
 ---
 
@@ -68,7 +68,7 @@ The final dashboard enables users to explore sales performance from different bu
 
 The dashboard is built using multiple related datasets exported from MySQL.
 
-![Data Model](Screenshots/data-model.png)
+![Data Model](screenshots/data-model.png)
 
 ---
 
@@ -77,7 +77,7 @@ The dashboard is built using multiple related datasets exported from MySQL.
 ```text
 Tableau Sales Insights Dashboard/
 │
-└── Screenshots/
+└── screenshots/
     ├── dashboard-overview.png
     └── data-model.png
 ├── csv_data/
