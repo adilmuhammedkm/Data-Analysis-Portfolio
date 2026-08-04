@@ -25,7 +25,7 @@ The dashboard provides an interactive way to explore movie performance using Exc
 
 ### Dashboard Overview
 
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ---
 
@@ -97,7 +97,7 @@ These tables were combined and analyzed using Excel features to create Pivot Tab
 ```
 Excel Movie Analytics Dashboard/
 │
-└── Screenshots/
+└── screenshots/
     ├── dashboard-overview.png
     └── dashboard-overview-2.png
 ├── README.md
@@ -134,11 +134,11 @@ Excel Movie Analytics Dashboard/
 
 ### Upper Dashboard
 
-![Dashboard Top](Screenshots/dashboard-overview.png)
+![Dashboard Top](screenshots/dashboard-overview.png)
 
 ### Lower Dashboard
 
-![Dashboard Bottom](Screenshots/dashboard-overview-2.png)
+![Dashboard Bottom](screenshots/dashboard-overview-2.png)
 
 ---
 
