@@ -42,19 +42,19 @@ The workflow included:
 
 ## Dashboard - Page 1
 
-![Dashboard Page 1](Screenshots/dashboard-page1.png)
+![Dashboard Page 1](screenshots/dashboard-page1.png)
 
 ---
 
 ## Dashboard - Page 2
 
-![Dashboard Page 2](Screenshots/dashboard-page2.png)
+![Dashboard Page 2](screenshots/dashboard-page2.png)
 
 ---
 
 ## Data Model
 
-![Model View](Screenshots/model-view.png)
+![Model View](screenshots/model-view.png)
 
 ---
 
@@ -104,7 +104,7 @@ Power BI Fundamentals - Music Dataset
 ├── album.csv
 ├── track.csv
 ├── README.md
-└── Screenshots
+└── screenshots
     ├── dashboard-page1.png
     ├── dashboard-page2.png
     └── model-view.png
