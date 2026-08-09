@@ -101,7 +101,3 @@ Each project is organized in its own folder with datasets, dashboards, screensho
 
 - GitHub: https://github.com/adilmuhammedkm
 - LinkedIn: https://www.linkedin.com/in/adilmuhammedkm
-
----
-
-## If you find this repository helpful, consider giving it a star!
