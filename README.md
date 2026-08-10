@@ -100,4 +100,4 @@ Each project is organized in its own folder with datasets, dashboards, screensho
 **Adil Muhammed K M**
 
 - GitHub: https://github.com/adilmuhammedkm
-- LinkedIn: https://www.linkedin.com/in/adilmuhammedkm
+- LinkedIn: https://www.linkedin.com/in/adilkm/
